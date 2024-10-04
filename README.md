@@ -3,4 +3,4 @@ You have reached my protfolio
 
 my gitlab -> https://gitlab.igem.org/segfault
 
-![GitLab Commit Badge](https://img.shields.io/badge/dynamic/json?label=GitLab%20Commits&query=%24[0].commit_count&url=https://gitlab.igem.org/api/v4/users/segfault/projects)
+![GitLab Commit Badge](https://img.shields.io/badge/dynamic/json?label=GitLab%20Commits&query=%24[0].commit_count&url=https://gitlab.igem.org/api/v4/users/15784/projects)
