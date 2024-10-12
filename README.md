@@ -6,7 +6,7 @@ I also have some work on https://gitlab.igem.org/segfault
 
 my gitlab -> https://gitlab.igem.org/segfault
 
-  Sea Turtle
+```
                 _,.---.---.---.--.._ 
             _.-' `--.`---.`---'-. _,`--.._
            /`--._ .'.     `.     `,`-.`-._\
@@ -21,5 +21,4 @@ my gitlab -> https://gitlab.igem.org/segfault
               `._,\/ ._\
                 `._// ./`-._
          LGB      `-._-_-_.-'
-
--
+```
